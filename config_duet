@@ -1,0 +1,8 @@
+#!/bin/bash
+
+./config_base
+
+IMG_NAME=TelosAir-Duet-PiOS
+TARGET_HOSTNAME=telosair-duet
+
+STAGE_LIST="stage0 stage1 stage2 stage3 stageDuet"

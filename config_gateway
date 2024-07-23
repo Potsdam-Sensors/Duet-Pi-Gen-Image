@@ -1,0 +1,8 @@
+#!/bin/bash
+
+./config_base
+IMG_NAME=TelosAir-Gateway-Image
+TARGET_HOSTNAME=telosair-gateway
+ENABLE_SSH=1
+
+STAGE_LIST="stage0 stage1 stage2 stage3 stageGateway"

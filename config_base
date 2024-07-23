@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "Config Base"
+IMG_NAME=TelosAir-Base-Test
+TARGET_HOSTNAME=brandon-dev
+ENABLE_SSH=1
+
+STAGES="stage0 stage1 stage2 stage3"
+
+
+LOCALE_DEFAULT="en_US.UTF-8"
